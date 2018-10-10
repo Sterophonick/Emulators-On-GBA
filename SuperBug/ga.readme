@@ -1,0 +1,45 @@
+Short:        Emulator of Super Bug 1 & 2 and Capture games
+Uploader:     amigansoftware@gmail.com (James Jacobs)
+Author:       amigansoftware@gmail.com (James Jacobs)
+Type:         misc/emu
+Version:      1.3
+Architecture: gba
+
+This is "Super Bug Advance" aka "GBAArcadia": a port of a subset of the
+Ami/WinArcadia 11.71 emulator to the Nintendo Game Boy Advance platform,
+for the purpose of emulating the Super Bug 1 & 2 and Capture games.
+  The emulator has been optimized for speed and size. The emulation is not
+as comprehensive as that provided by Ami/WinArcadia, but everything needed
+for adequate emulation of the included games is present. Features could be
+added back in from Ami/WinArcadia if desired, to enable support of other
+games.
+  The program was written in C using HAM 2.8.0 and Visual HAM 2.4.2.
+Source code is included.
+
+Keys are:
+
+    START:  start
+    SELECT: difficulty
+    A:      fire
+    B:      autofire on/off (Super Bug)/fire (Capture)
+    D-pad:  move
+    L:      switch game
+    R:      pause/unpause
+
+1.3 : Fri 11 Sep 2009.
+    . Added Super Bug 2.
+
+1.2 : Tue 14 Jul 2009.
+1.1a: Mon  6 Jul 2009.
+1.1:  Sat 29 Jun 2009.
+1.0:  Thu 27 Jun 2009.
+
+0.1:  Mon 24 Jun 2009.
+
+URL:   http://amigan.1emu.net/releases/
+EMail: amigansoftware@gmail.com
+
+                                        Enjoy!
+
+                                        James Jacobs of Amigan Software
+                                        11/9/09

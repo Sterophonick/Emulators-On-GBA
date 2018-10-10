@@ -1,0 +1,37 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+SNES Advance v0.1
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+This is just an update to Loopys SNESAdvance, I won't be setting
+any version numbers on these releases I just use the date.
+Use Select+Up/Down to change screen offset.
+Go to www.snesadvance.com or boards.pocketheaven.com for more info.
+Go to hem.passagen.se/flubba/gba.html for more updates.
+
+2005-01-20 (FluBBa)
+   Fixed more with status for joypad polling (R-Type 3).
+   Fixed HCountLatch (lots of games).
+
+2005-01-11 (FluBBa)
+   Fixed with joypad reading (Super Mario Allstars).
+
+2005-01-04 (FluBBa)
+   Fixed some PAL games.
+
+2004-10-20 (FluBBa)
+   Fixed Mode7 intro in Actraiser.
+   Added fade register.
+   Added some alpha blending (in source).
+   Added support for different sized SRAM.
+
+2004-10-13 (FluBBa)
+   Correctly turn off backgrounds when it should.
+
+2004-10-11 (FluBBa)
+   Fixed reading from VRAM.
+
+2004-10-09 (FluBBa)
+   ADC & SBC now supports decimal mode.
+   NES style joystick reading works.
+   Rendering doesn't trash the stack.
+   Some more registers emulated.
